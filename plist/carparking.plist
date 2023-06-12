@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/lightroom-8.2.1-1680637430/Lightroom_8.2.1_1680637430.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/80-d-123-cd-d-8-ed-46-d-9-b-7-ae-4-b-5-a-0-a-27-a-346/80D123CD-D8ED-46D9-B7AE-4B5A0A27A346_thumb.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://archive.org/download/80-d-123-cd-d-8-ed-46-d-9-b-7-ae-4-b-5-a-0-a-27-a-346/80D123CD-D8ED-46D9-B7AE-4B5A0A27A346_thumb.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.adobe.lrmobilephone123</string>
+				<key>bundle-version</key>
+				<string>438</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Car Parking</string>
+				<key>title</key>
+				<string>Car Parking</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
